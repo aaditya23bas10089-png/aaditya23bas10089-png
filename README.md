@@ -1,3 +1,7 @@
+## 🎥 Video Introduction
+
+[Watch My Introduction Video](https://drive.google.com/file/d/1vKdnqif4bcTmO-88wleHCbiZhUHvnPWn/view?usp=sharing)
+
 # Hi, I'm Aaditya Srivastava 👋
 
 🎓 B.Tech Aerospace Engineering Student  
@@ -32,6 +36,4 @@ To contribute to advanced aerospace systems and national defense research throug
 - College Email: aaditya.23bas10089@vitbhopal.ac.in
 - LinkedIn: www.linkedin.com/in/aaditya-srivastava-aerospace
 
-## 🎥 Video Introduction
 
-[Watch My Introduction Video](https://drive.google.com/file/d/1vKdnqif4bcTmO-88wleHCbiZhUHvnPWn/view?usp=sharing)
