@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aaditya Srivastava 👋
 
-<!--
-**aaditya23bas10089-png/aaditya23bas10089-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Aerospace Engineering Student  
+🚀 Interested in Aerodynamics, CFD & Aircraft Design  
+🔬 Passionate about Computational Simulations and Research  
+📄 Working towards publishing research in Aerospace Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- ANSYS (CFD & Structural)
+- MATLAB
+- Python (Basics)
+- Aerodynamics & Flight Mechanics
+- Probability & Statistics
+
+---
+
+## 📚 Currently Learning
+- Aircraft Stability & Control
+- Hypersonic Waverider Aerodynamics
+- Industrial Aerodynamics
+
+---
+
+## 🎯 Career Goal
+To contribute to advanced aerospace systems and national defense research through strong analytical and simulation-based expertise.
+
+---
+
+## 📫 Contact
+- College Email: aaditya.23bas10089@vitbhopal.ac.in
+- LinkedIn: www.linkedin.com/in/aaditya-srivastava-aerospace
